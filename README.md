@@ -45,3 +45,4 @@ IV.High power consumption because of Bluetooth connectivity.
 
 Conclusion - 
 From the above discussion it can be concluded that Home Automation is a special device used for controlling and monitoring devices in our home in a centralized place and easily accessible with minimum effort. And in this paper, we discussed the components, working, application and future scope of home automation. We have created a device which is compact, easy to use, long life and low cost. The need of this paper is to create a device which is energy efficient and makes human life easier.
+![actual project home automation](https://github.com/pawanps55/Iot-Based-Home-Automation/assets/156445826/f588df02-e1fa-4dcb-a3d2-48236b2323dc)
